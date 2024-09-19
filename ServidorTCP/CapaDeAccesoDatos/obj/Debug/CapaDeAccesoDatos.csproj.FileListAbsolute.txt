@@ -1,0 +1,27 @@
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\Entidades.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.CopyComplete
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeAccesoDatos\obj\Debug\CapaDeAccesoDatos.pdb

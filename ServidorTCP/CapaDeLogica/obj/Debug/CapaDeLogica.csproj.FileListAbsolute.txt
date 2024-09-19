@@ -1,0 +1,75 @@
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDeLogica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Entidades.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Entidades.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
