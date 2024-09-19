@@ -1,0 +1,33 @@
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\bin\Debug\ClienteTCP.exe.config
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\bin\Debug\ClienteTCP.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\bin\Debug\ClienteTCP.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Properties.Resources.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConexionYValidacion.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConsultarPrestamos.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Menu.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.PrestamoPeliculas.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConexionYValidacion.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConsultarPrestamos.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Menu.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.PrestamoPeliculas.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Properties.Resources.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\CapaDeDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\CapaDeDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.exe.config
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\Videoteca UNED Cliente.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ClienteTCP\ClienteTCP\obj\Debug\Videoteca UNED Cliente.pdb

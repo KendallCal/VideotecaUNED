@@ -1,0 +1,40 @@
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.exe.config
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.exe
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\CapaDeDatos.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Entidades.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\CapaDeDatos.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Entidades.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConexionYValidacion.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConsultarPrestamos.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Menu.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.PrestamoPeliculas.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Properties.Resources.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\Videoteca UNED Cliente.exe
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\Videoteca UNED Cliente.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\Videoteca UNED Cliente.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\Videoteca UNED Cliente.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.exe.config
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Videoteca UNED Cliente.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\CapaDeDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\CapaDeDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConexionYValidacion.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.ConsultarPrestamos.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Menu.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.PrestamoPeliculas.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Properties.Resources.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ClienteTCP\ClienteTCP\obj\Debug\CapaDePresentacion.csproj.CopyComplete
