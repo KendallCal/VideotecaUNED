@@ -1,0 +1,171 @@
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoriaPelicula.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Downloads\KendallCalderón-Proyecto1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoriaPelicula.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Downloads\Vamos a la 1\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoriaPelicula.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Pictures\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoriaPelicula.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\kenda\Documents\Proyecto 1 Kendall Calderon Burgos\CapaDePresentacion\obj\Debug\CapaDePresentacion.Servidor.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Servidor.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoria.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.exe.config
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\Videoteca UNED Admin.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto Final\ServidorTCP\CapaDePresentacion\obj\Debug\Videoteca UNED Admin.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.exe.config
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.exe
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Entidades.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Entidades.pdb
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoria.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Servidor.resources
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\Videoteca UNED Admin.exe
+C:\Users\kenda\Desktop\KendallCalderón-Proyecto2\Proyecto Final Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\Videoteca UNED Admin.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\Videoteca UNED Admin.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\Videoteca UNED Admin.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.exe.config
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.exe
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Videoteca UNED Admin.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeAccesoDatos.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Entidades.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeAccesoDatos.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Entidades.pdb
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Menu.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.MenuDatos.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCategoria.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarCliente.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarEncargado.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPelicula.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarPeliculaPorSucursal.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.registrarSucursal.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.Servidor.resources
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Documents\UNED\6° Cuatrimestre\Programación Avanzada\Proyecto 2 Kendall Calderón Burgos\ServidorTCP\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
