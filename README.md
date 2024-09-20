@@ -11,6 +11,8 @@ El sistema se compone de dos aplicaciones principales: un cliente y un servidor,
   - Se conecta y valida al cliente contra una base de datos SQL Server.
   - Permite realizar solicitudes de préstamo y consultar préstamos realizados.
   - Muestra información sobre sucursales y películas disponibles.
+  - ![Texto alternativo](VideotecaUNED/imagenes/Cliente.png)
+
 
 - **Servidor:** Administra las solicitudes de los clientes, maneja las operaciones de base de datos y gestiona la lógica de negocio. El servidor:
   - Implementa subprocesamiento múltiple para manejar múltiples conexiones simultáneas.
