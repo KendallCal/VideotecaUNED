@@ -17,6 +17,7 @@ El sistema se compone de dos aplicaciones principales: un cliente y un servidor,
   - Implementa subprocesamiento múltiple para manejar múltiples conexiones simultáneas.
   - Realiza operaciones CRUD para categorías de películas, películas, encargados, sucursales, y clientes.
   - Mantiene una bitácora en tiempo real de las actividades de los clientes.
+  <img src="imagenes/Servidor.png" alt="Captura Cliente" width="800" />
 
 ### Tecnologías Utilizadas:
 
