@@ -19,6 +19,8 @@ El sistema se compone de dos aplicaciones principales: un cliente y un servidor,
   - Mantiene una bitácora en tiempo real de las actividades de los clientes.
   <img src="imagenes/Servidor.png" alt="Captura Cliente" width="800" />
 
+Para ver más imágenes sobre el proyecto, consulta la carpeta [imagenes](imagenes). También puedes ver el [Video Demostración](ruta/al/video/demo.mp4).
+
 ### Tecnologías Utilizadas:
 
 - **Lenguaje:** C#
