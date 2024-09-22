@@ -1,5 +1,5 @@
 # VideotecaUNED
-Este proyecto, desarrollado en C# con el framework .NET, es una solución integral para la gestión de préstamos de películas en una videoteca. El proyecto fue creado como parte del curso de Programación Avanzada (Código: 00830) de la Universidad Estatal a Distancia (UNED) en el II Cuatrimestre de 2024.
+Este proyecto, fue desarrollado en C# con el framework .NET, es una solución para la gestión de préstamos de películas en una videoteca. El proyecto fue creado como parte final del curso de Programación Avanzada de la Universidad Estatal a Distancia (UNED) en el II Cuatrimestre de 2024.
 
 ## Descripción del Proyecto
 
