@@ -1,42 +1,184 @@
-# VideotecaUNED
-Este proyecto, fue desarrollado en C# con el framework .NET, es una solución para la gestión de préstamos de películas en una videoteca. El proyecto fue creado como parte final del curso de Programación Avanzada de la Universidad Estatal a Distancia (UNED) en el II Cuatrimestre de 2024.
+<div align="center">
 
-## Descripción del Proyecto
+# 🎬 VideotecaUNED
 
-El sistema se compone de dos aplicaciones principales: un cliente y un servidor, que se comunican a través del protocolo TCP. 
+### Sistema cliente-servidor para gestión de préstamos de películas
 
-### Funcionalidades Principales:
+Proyecto desarrollado en **C# y .NET**, con comunicación mediante **TCP/IP**, persistencia en **SQL Server** y soporte para múltiples conexiones concurrentes.
 
-- **Cliente:** Permite a los usuarios realizar préstamos de películas en línea. La aplicación cliente:
-  - Se conecta y valida al cliente contra una base de datos SQL Server.
-  - Permite realizar solicitudes de préstamo y consultar préstamos realizados.
-  - Muestra información sobre sucursales y películas disponibles.
-  <img src="imagenes/Cliente.png" alt="Captura Cliente" width="800" />
+<br>
 
-- **Servidor:** Administra las solicitudes de los clientes, maneja las operaciones de base de datos y gestiona la lógica de negocio. El servidor:
-  - Implementa subprocesamiento múltiple para manejar múltiples conexiones simultáneas.
-  - Realiza operaciones CRUD para categorías de películas, películas, encargados, sucursales, y clientes.
-  - Mantiene una bitácora en tiempo real de las actividades de los clientes.
-  <img src="imagenes/Servidor.png" alt="Captura Cliente" width="800" />
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-0A66C2?style=for-the-badge)
 
-Para ver más imágenes sobre el proyecto, consulta la carpeta [imagenes](imagenes). También puedes ver el [Video Demostración](imagenes/Demo.mp4).
+</div>
 
-### Tecnologías Utilizadas:
+---
 
-- **Lenguaje:** C#
-- **Framework:** .NET Framework 4.8 / .NET 6.0
-- **Base de Datos:** SQL Server
-- **Protocolo de Comunicación:** TCP/IP
+## 📌 Sobre el proyecto
 
-Este proyecto pone en práctica conceptos avanzados de programación como manejo de excepciones, subprocesamiento múltiple y comunicación en red, y está diseñado para una interfaz gráfica de usuario intuitiva.
+**VideotecaUNED** es una aplicación de escritorio desarrollada como proyecto final del curso de **Programación Avanzada** de la Universidad Estatal a Distancia (UNED), durante el II Cuatrimestre de 2024.
 
-## Instalación y Uso
+El sistema implementa una arquitectura **cliente-servidor**, donde ambas aplicaciones se comunican mediante el protocolo **TCP**.
 
-1. Clona el repositorio en tu máquina local.
-2. Abre la solución en Visual Studio Community 2022.
-3. Configura la base de datos SQL Server según el script proporcionado.
-4. Ejecuta los proyectos cliente y servidor para probar la funcionalidad completa.
+El proyecto integra conceptos de programación avanzada como:
 
-Para más detalles sobre el desarrollo y la estructura del código, consulta los archivos y comentarios dentro del repositorio.
+* Comunicación en red.
+* Arquitectura cliente-servidor.
+* Manejo de múltiples conexiones.
+* Subprocesamiento múltiple.
+* Operaciones CRUD.
+* Persistencia de datos.
+* Manejo de excepciones.
+* Registro de actividad en tiempo real.
 
-**Nota:** Este proyecto se realizó como parte del curso de Programación Avanzada de la UNED y se encuentra en una fase de prueba. Se recomienda revisar la documentación y los comentarios en el código para una comprensión completa del sistema.
+---
+
+## 🏗️ Arquitectura
+
+```text
+┌──────────────────────┐
+│       CLIENTE        │
+│                      │
+│  Consultas           │
+│  Préstamos           │
+│  Disponibilidad      │
+└──────────┬───────────┘
+           │
+           │ TCP/IP
+           │
+┌──────────▼───────────┐
+│       SERVIDOR       │
+│                      │
+│  Lógica de negocio   │
+│  Multithreading      │
+│  Gestión de datos    │
+└──────────┬───────────┘
+           │
+           │
+┌──────────▼───────────┐
+│     SQL SERVER       │
+│                      │
+│  Persistencia        │
+│  Consultas y CRUD    │
+└──────────────────────┘
+```
+
+---
+
+## 💻 Aplicación cliente
+
+La aplicación cliente permite a los usuarios interactuar con el sistema de préstamos.
+
+### Funcionalidades
+
+* Validación de clientes mediante la base de datos.
+* Consulta de sucursales disponibles.
+* Consulta de películas.
+* Solicitud de préstamos.
+* Consulta de préstamos realizados.
+* Comunicación con el servidor mediante TCP/IP.
+
+<div align="center">
+
+<img src="imagenes/Cliente.png" alt="Aplicación cliente de VideotecaUNED" width="85%">
+
+</div>
+
+---
+
+## 🖥️ Aplicación servidor
+
+El servidor centraliza la lógica de negocio, administra las solicitudes realizadas por los clientes y gestiona la comunicación con la base de datos.
+
+### Funcionalidades
+
+* Manejo de múltiples conexiones mediante **subprocesamiento múltiple**.
+* Gestión de solicitudes provenientes de los clientes.
+* Operaciones CRUD para:
+
+  * Categorías.
+  * Películas.
+  * Encargados.
+  * Sucursales.
+  * Clientes.
+* Acceso y actualización de información en SQL Server.
+* Bitácora en tiempo real de las actividades realizadas por los clientes.
+
+<div align="center">
+
+<img src="imagenes/Servidor.png" alt="Aplicación servidor de VideotecaUNED" width="85%">
+
+</div>
+
+---
+
+## 🛠️ Tecnologías
+
+| Área          | Tecnología                    |
+| ------------- | ----------------------------- |
+| Lenguaje      | C#                            |
+| Plataforma    | .NET Framework 4.8 / .NET 6.0 |
+| Base de datos | SQL Server                    |
+| Comunicación  | TCP/IP                        |
+| IDE           | Visual Studio Community 2022  |
+
+---
+
+## 🎥 Demostración
+
+El repositorio incluye una demostración del funcionamiento completo del sistema.
+
+▶️ [Ver video de demostración](imagenes/Demo.mp4)
+
+También puedes consultar la carpeta [`imagenes`](imagenes) para ver más capturas del proyecto.
+
+---
+
+## 🚀 Ejecución local
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/KendallCal/VideotecaUNED.git
+```
+
+### 2. Abrir la solución
+
+Abre el proyecto utilizando **Visual Studio Community 2022**.
+
+### 3. Configurar la base de datos
+
+Configura **SQL Server** utilizando el script de base de datos incluido en el proyecto.
+
+### 4. Ejecutar el servidor
+
+Inicia primero la aplicación encargada de recibir las conexiones y gestionar las operaciones del sistema.
+
+### 5. Ejecutar el cliente
+
+Inicia la aplicación cliente y establece la comunicación con el servidor para utilizar las funcionalidades disponibles.
+
+---
+
+## 🎓 Contexto académico
+
+Este proyecto fue desarrollado como parte del curso de **Programación Avanzada de la UNED**.
+
+Más allá de los requisitos académicos, el proyecto permitió aplicar de forma práctica conceptos de:
+
+**programación orientada a objetos · redes · bases de datos · concurrencia · arquitectura cliente-servidor · manejo de excepciones**
+
+---
+
+<div align="center">
+
+### 👨‍💻 Kendall Calderón
+
+[![GitHub](https://img.shields.io/badge/GitHub-KendallCal-181717?style=for-the-badge\&logo=github)](https://github.com/KendallCal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendall_Calderón-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kendallcal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kendallc.dev-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.kendallc.dev/)
+
+</div>
