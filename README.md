@@ -2,9 +2,9 @@
 
 # 🎬 VideotecaUNED
 
-### Sistema cliente-servidor para gestión de préstamos de películas
+### Client-server movie rental management system
 
-Proyecto desarrollado en **C# y .NET**, con comunicación mediante **TCP/IP**, persistencia en **SQL Server** y soporte para múltiples conexiones concurrentes.
+A desktop application developed with **C# and .NET**, using **TCP/IP** communication, **SQL Server** persistence, and support for multiple concurrent connections.
 
 <br>
 
@@ -17,159 +17,159 @@ Proyecto desarrollado en **C# y .NET**, con comunicación mediante **TCP/IP**, p
 
 ---
 
-## 📌 Sobre el proyecto
+## 📌 About the Project
 
-**VideotecaUNED** es una aplicación de escritorio desarrollada como proyecto final del curso de **Programación Avanzada** de la Universidad Estatal a Distancia (UNED), durante el II Cuatrimestre de 2024.
+**VideotecaUNED** is a desktop application developed as the final project for the **Advanced Programming** course at Universidad Estatal a Distancia (UNED), during the second academic term of 2024.
 
-El sistema implementa una arquitectura **cliente-servidor**, donde ambas aplicaciones se comunican mediante el protocolo **TCP**.
+The system implements a **client-server architecture**, where both applications communicate using the **TCP protocol**.
 
-El proyecto integra conceptos de programación avanzada como:
+The project applies advanced programming concepts such as:
 
-* Comunicación en red.
-* Arquitectura cliente-servidor.
-* Manejo de múltiples conexiones.
-* Subprocesamiento múltiple.
-* Operaciones CRUD.
-* Persistencia de datos.
-* Manejo de excepciones.
-* Registro de actividad en tiempo real.
+* Network communication.
+* Client-server architecture.
+* Multiple connection handling.
+* Multithreading.
+* CRUD operations.
+* Data persistence.
+* Exception handling.
+* Real-time activity logging.
 
 ---
 
-## 🏗️ Arquitectura
+## 🏗️ Architecture
 
 ```text
 ┌──────────────────────┐
-│       CLIENTE        │
+│        CLIENT        │
 │                      │
-│  Consultas           │
-│  Préstamos           │
-│  Disponibilidad      │
+│  Queries             │
+│  Rentals             │
+│  Availability        │
 └──────────┬───────────┘
            │
            │ TCP/IP
            │
 ┌──────────▼───────────┐
-│       SERVIDOR       │
+│        SERVER        │
 │                      │
-│  Lógica de negocio   │
+│  Business logic      │
 │  Multithreading      │
-│  Gestión de datos    │
+│  Data management     │
 └──────────┬───────────┘
            │
            │
 ┌──────────▼───────────┐
 │     SQL SERVER       │
 │                      │
-│  Persistencia        │
-│  Consultas y CRUD    │
+│  Persistence         │
+│  Queries & CRUD      │
 └──────────────────────┘
 ```
 
 ---
 
-## 💻 Aplicación cliente
+## 💻 Client Application
 
-La aplicación cliente permite a los usuarios interactuar con el sistema de préstamos.
+The client application allows users to interact with the movie rental system.
 
-### Funcionalidades
+### Features
 
-* Validación de clientes mediante la base de datos.
-* Consulta de sucursales disponibles.
-* Consulta de películas.
-* Solicitud de préstamos.
-* Consulta de préstamos realizados.
-* Comunicación con el servidor mediante TCP/IP.
+* Client validation against the database.
+* View available branches.
+* Browse available movies.
+* Submit rental requests.
+* View previous rentals.
+* Communicate with the server through TCP/IP.
 
 <div align="center">
 
-<img src="imagenes/Cliente.png" alt="Aplicación cliente de VideotecaUNED" width="85%">
+<img src="imagenes/Cliente.png" alt="VideotecaUNED client application" width="85%">
 
 </div>
 
 ---
 
-## 🖥️ Aplicación servidor
+## 🖥️ Server Application
 
-El servidor centraliza la lógica de negocio, administra las solicitudes realizadas por los clientes y gestiona la comunicación con la base de datos.
+The server centralizes the business logic, processes client requests, and manages communication with the database.
 
-### Funcionalidades
+### Features
 
-* Manejo de múltiples conexiones mediante **subprocesamiento múltiple**.
-* Gestión de solicitudes provenientes de los clientes.
-* Operaciones CRUD para:
+* Handles multiple connections using **multithreading**.
+* Processes requests sent by connected clients.
+* Performs CRUD operations for:
 
-  * Categorías.
-  * Películas.
-  * Encargados.
-  * Sucursales.
-  * Clientes.
-* Acceso y actualización de información en SQL Server.
-* Bitácora en tiempo real de las actividades realizadas por los clientes.
+  * Categories.
+  * Movies.
+  * Managers.
+  * Branches.
+  * Clients.
+* Reads and updates information in SQL Server.
+* Maintains a real-time activity log of client actions.
 
 <div align="center">
 
-<img src="imagenes/Servidor.png" alt="Aplicación servidor de VideotecaUNED" width="85%">
+<img src="imagenes/Servidor.png" alt="VideotecaUNED server application" width="85%">
 
 </div>
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
-| Área          | Tecnología                    |
+| Area          | Technology                    |
 | ------------- | ----------------------------- |
-| Lenguaje      | C#                            |
-| Plataforma    | .NET Framework 4.8 / .NET 6.0 |
-| Base de datos | SQL Server                    |
-| Comunicación  | TCP/IP                        |
+| Language      | C#                            |
+| Platform      | .NET Framework 4.8 / .NET 6.0 |
+| Database      | SQL Server                    |
+| Communication | TCP/IP                        |
 | IDE           | Visual Studio Community 2022  |
 
 ---
 
-## 🎥 Demostración
+## 🎥 Demo
 
-El repositorio incluye una demostración del funcionamiento completo del sistema.
+The repository includes a full demonstration of the system.
 
-▶️ [Ver video de demostración](imagenes/Demo.mp4)
+▶️ [View demo video](imagenes/Demo.mp4)
 
-También puedes consultar la carpeta [`imagenes`](imagenes) para ver más capturas del proyecto.
+You can also browse the [`imagenes`](imagenes) folder to view additional screenshots.
 
 ---
 
-## 🚀 Ejecución local
+## 🚀 Run Locally
 
-### 1. Clonar el repositorio
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/KendallCal/VideotecaUNED.git
 ```
 
-### 2. Abrir la solución
+### 2. Open the solution
 
-Abre el proyecto utilizando **Visual Studio Community 2022**.
+Open the project using **Visual Studio Community 2022**.
 
-### 3. Configurar la base de datos
+### 3. Configure the database
 
-Configura **SQL Server** utilizando el script de base de datos incluido en el proyecto.
+Set up **SQL Server** using the database script included in the repository.
 
-### 4. Ejecutar el servidor
+### 4. Run the server
 
-Inicia primero la aplicación encargada de recibir las conexiones y gestionar las operaciones del sistema.
+Start the server application first so it can receive connections and process system operations.
 
-### 5. Ejecutar el cliente
+### 5. Run the client
 
-Inicia la aplicación cliente y establece la comunicación con el servidor para utilizar las funcionalidades disponibles.
+Start the client application and establish a connection with the server to use the available features.
 
 ---
 
-## 🎓 Contexto académico
+## 🎓 Academic Context
 
-Este proyecto fue desarrollado como parte del curso de **Programación Avanzada de la UNED**.
+This project was developed as part of the **Advanced Programming** course at Universidad Estatal a Distancia (UNED).
 
-Más allá de los requisitos académicos, el proyecto permitió aplicar de forma práctica conceptos de:
+Beyond the academic requirements, the project provided practical experience with:
 
-**programación orientada a objetos · redes · bases de datos · concurrencia · arquitectura cliente-servidor · manejo de excepciones**
+**object-oriented programming · networking · databases · concurrency · client-server architecture · exception handling**
 
 ---
 
